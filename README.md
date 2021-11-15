@@ -1,5 +1,8 @@
 # Google Machine Learning Bootcamp
 
+<p align="center"><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FEcVLl%2Fbtrk9sPovfJ%2FlRpB4KNzfSGwI2qFrPPbbK%2Fimg.png"></p>
+</br>
+
 ## What is 'Machine Learning Bootcamp'?
 
 ### 개요
@@ -19,11 +22,11 @@
 - '구글 머신러닝 부트캠프'에서 배운 것을 정리하고 복습하고자 함.
 - 자격증 취득을 위해 수강한 [**TensorFlow Developer Professional Certificate**](https://www.coursera.org/professional-certificates/tensorflow-in-practice)도 이곳에서 정리하고자 함.
 
-## Coursera Deep Learning Specialization
+## Deep Learning Specialization
 |No|기간|강좌|
 |---|---|---|
 
-## Coursera DeepLearning.AI TensorFlow Developer Professional Certificate
+## DeepLearning.AI TensorFlow Developer Professional Certificate
 |No|기간|강좌|
 |---|---|---|
 
