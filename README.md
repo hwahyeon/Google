@@ -33,7 +33,7 @@
 ## DeepLearning.AI TensorFlow Developer Professional Certificate
 |Module|강좌|비고|
 |---|---|---|
-|1|Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning|||
+|1|[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/hwahyeon/class-intro-tf)|||
 |2|Convolutional Neural Networks in TensorFlow|||
 |3|Natural Language Processing in TensorFlow|||
 |4|Sequences, Time Series and Prediction|||
