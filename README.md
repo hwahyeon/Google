@@ -17,7 +17,7 @@
     - [**TensorFlow certification**](https://www.tensorflow.org/certificate)
 
 ## This repository?
-- `구글 머신러닝 부트캠프`에서 배운 것을 정리하고 복습하였음.
+- **구글 머신러닝 부트캠프**에서 배운 것을 정리하고 복습하였음.
 - 자격증 취득을 위해 수강한 [**TensorFlow Developer Professional Certificate**](https://www.coursera.org/professional-certificates/tensorflow-in-practice)도 이곳에 정리하였음.
 
 ## Deep Learning Specialization
