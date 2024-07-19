@@ -4,24 +4,23 @@
 
 ## What is 'Machine Learning Bootcamp'?
 
-- 이 프로그램은 머신 러닝 개발자 양성을 목적으로 한다.
-- 이 프로그램은 아래 두 사항을 충족해야 수료할 수 있다.
+- This program aims to train machine learning developers.
+- To complete this program, participants must meet the following two requirements:
 
-  #### 프로그램
-
+  #### Program
     - [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning)
 
-  #### 자격증 취득 (아래 중 한 개 이상)
+  #### Obtain at least one of the following certifications:
     - [GCP Professional ML Engineer certification](https://cloud.google.com/certification/machine-learning-engineer)
     - [GCP Professional Data Engineer certification](https://cloud.google.com/certification/data-engineer)
     - [**TensorFlow certification**](https://www.tensorflow.org/certificate)
 
 ## This repository?
-- **구글 머신러닝 부트캠프**에서 배운 것을 정리하고 복습하였음.
-- 자격증 취득을 위해 수강한 [**TensorFlow Developer Professional Certificate**](https://www.coursera.org/professional-certificates/tensorflow-in-practice)도 이곳에 정리하였음.
+- This repository serves as a primary guide for documenting and reviewing the materials studied in the **Google Machine Learning Bootcamp**.
+- It also includes notes and resources from the [**TensorFlow Developer Professional Certificate**](https://www.coursera.org/professional-certificates/tensorflow-in-practice) course taken for certification.
 
 ## Deep Learning Specialization
-|Module|강좌|비고|
+|No.|Module|Note|
 |---|---|---|
 |1|Neural Networks and Deep Learning||
 |2|Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization||
@@ -31,14 +30,14 @@
 
 
 ## DeepLearning.AI TensorFlow Developer Professional Certificate
-|Module|강좌|비고|
+|No.|Module|Note|
 |---|---|---|
-|1|[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/hwahyeon/class-intro-tf)|||
+|1|Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning|||
 |2|Convolutional Neural Networks in TensorFlow|||
 |3|Natural Language Processing in TensorFlow|||
 |4|Sequences, Time Series and Prediction|||
 
 
 ## Result
-- Deep Learning Specialization 수료
-- TensorFlow certification 취득
+- Completed **Deep Learning Specialization**
+- Obtained **TensorFlow certification**
