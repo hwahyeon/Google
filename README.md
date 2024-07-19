@@ -20,7 +20,7 @@
 - It also includes notes and resources from the [**TensorFlow Developer Professional Certificate**](https://www.coursera.org/professional-certificates/tensorflow-in-practice) course taken for certification.
 
 ## Deep Learning Specialization
-|No.|Module|Note|
+|No.|Course|Note|
 |---|---|---|
 |1|Neural Networks and Deep Learning||
 |2|Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization||
@@ -30,7 +30,7 @@
 
 
 ## DeepLearning.AI TensorFlow Developer Professional Certificate
-|No.|Module|Note|
+|No.|Course|Note|
 |---|---|---|
 |1|Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning|||
 |2|Convolutional Neural Networks in TensorFlow|||
